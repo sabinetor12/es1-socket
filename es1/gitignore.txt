@@ -1,2 +1,2 @@
-es1_client/target
-es1_server/target
+es1_client/target/
+es1_server/target/
